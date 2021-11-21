@@ -1,4 +1,4 @@
-- Hi, I’m @FizixUnknown
+- Hi, I’m FizixUnknown
 - I stream on Twitch and I'm getting into creating content on other platforms.
 - I have a Minecraft server that I code plugins for, and I've coded a few mods and plugins for other Minecraft things
 - And I'm working on a website!
